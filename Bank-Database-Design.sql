@@ -8,11 +8,13 @@
 create database dbBankGM;
 GO
 
+
 /* NOTE: Unlike asked in question database name has been used as 'dbBankGM' instead of 'Bank' in order to make it unique 
 from other students. Following code is used to select 'dbBankGM' as current database */
 
 use dbBankGM;
 GO
+
 
 --Q2. Create all the tables mentioned in the database diagram. 
 --Q3. Create all the constraints based on the database diagram. 
